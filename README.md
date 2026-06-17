@@ -1,2 +1,2 @@
-# 1C-Test-Task-Effective-Mobile-
-Test task for (Effective Mobile) 1C:Enterprise 8.3. External processing.
+# 1C Test Task Effective-Mobile
+Тестовое задание внешней обработки для платформы 1С:Предприятие 8.3.25.
